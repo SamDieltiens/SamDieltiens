@@ -1,4 +1,4 @@
-PhD student computational biology
+PhD student computational biology @aertslab
 
 https://twitter.com/SamDieltiens
 <!--
