@@ -1,14 +1,14 @@
 PhD student computational biology @ aertslab
 
-https://bsky.app/profile/samdieltiens.bsky.social
+Blueksy: https://bsky.app/profile/samdieltiens.bsky.social
 
-www.twitter.com/SamDieltiens
+X (formerly known as Twitter): www.twitter.com/SamDieltiens
 
-https://www.linkedin.com/in/samdieltiens/
+LinkedIn: https://www.linkedin.com/in/samdieltiens/
 
-https://orcid.org/0000-0003-1165-2189
+ORCiD: https://orcid.org/0000-0003-1165-2189
 
-https://scholar.google.com/citations?user=tZzjdaAAAAAJ&hl=nl&oi=sra
+Google Scholar: https://scholar.google.com/citations?user=tZzjdaAAAAAJ&hl=nl&oi=sra
 
 <!--
 **SamDieltiens/SamDieltiens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
