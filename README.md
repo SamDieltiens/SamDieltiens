@@ -2,7 +2,7 @@ PhD student computational biology @ aertslab
 
 Blueksy: https://bsky.app/profile/samdieltiens.bsky.social
 
-X (formerly known as Twitter): www.twitter.com/SamDieltiens
+Twitter: www.twitter.com/SamDieltiens
 
 LinkedIn: https://www.linkedin.com/in/samdieltiens/
 
